@@ -37,4 +37,4 @@ The following folders contain:
 
 1) Navigate to `<project root>/src` and run `python app.py`
 
-2) Open browser and go the URL `http://localhost:5000/total`
+2) Open a browser and go the URL `http://localhost:5000/total`
